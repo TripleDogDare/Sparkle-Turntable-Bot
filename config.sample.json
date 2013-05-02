@@ -1,5 +1,5 @@
 {"botinfo":
-	{"auth":"auth+live+#####",
+	{"auth":"#####",
 	"userid":"#####",
 	"botname":"meow"},
 "roomid":"4f1e02590c4cc807574030f1",
@@ -17,7 +17,8 @@
 	"login":{
 		"user":"#####",
 		"password":"#####",
-        "host": "localhost"}},
+		"host": "localhost"
+		"port": 3306}},
 "lastfm":
 	{"useapi":true,
 	"lastfmkey":"#####"},
